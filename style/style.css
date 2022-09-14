@@ -21,9 +21,9 @@ h1{
     color: #403220;
 }
 .food-image{
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
-    display: block;
+    display: flex;
 }
 .subheading{
     color: #403220;
