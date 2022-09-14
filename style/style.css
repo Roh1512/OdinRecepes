@@ -10,6 +10,10 @@ header{
     height: 110px;
     background-color: #17120c;
 }
+main{
+    width: 80%;
+    margin: auto;
+}
 .main-heading{
     font-size: 4rem;
     color: #403220;
