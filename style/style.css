@@ -2,8 +2,8 @@ body{
     background: #f7e2c8;
     margin: auto;
     font-size: 1.4rem;
-    letter-spacing: 2px;
-    line-height: 30px;
+    letter-spacing: 3px;
+    line-height: 50px;
 }
 header{
     width: 100%;
@@ -14,11 +14,25 @@ main{
     width: 80%;
     margin: auto;
 }
-.main-heading{
-    font-size: 4rem;
+.mainheading1{
     color: #403220;
+    text-decoration: none;
+    border: #f7e2c8 9px solid;
+    padding:5px;
+    border-radius: 20px;
+}
+.mainheading{
+    font-size: 4rem;
     margin: auto;
     text-decoration: none;
+    position: relative;
+    top: 30px;
+    text-align: left;
+}
+.homelink{
+    position: relative;
+    text-align: right;
+    bottom: 20px;
 }
 h1{
     text-align: center;
