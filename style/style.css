@@ -1,13 +1,13 @@
 body{
     background: #f7e2c8;
-    margin:0 auto;
+    margin: auto;
     font-size: 1.4rem;
     letter-spacing: 2px;
     line-height: 30px;
 }
 header{
     width: 100%;
-    height: 100px;
+    height: 110px;
     background-color: #17120c;
 }
 .main-heading{
@@ -21,8 +21,9 @@ h1{
     color: #403220;
 }
 .food-image{
-    width: 80%;
+    width: 50%;
     margin: 0 auto;
+    display: block;
 }
 .subheading{
     color: #403220;
